@@ -1,0 +1,26 @@
+h1 { 
+    color: #7c795d; 
+    font-family: 'Trocchi', serif; 
+    font-size: 45px; 
+    font-weight: normal; 
+    line-height: 48px;
+    padding-left: 0.1in; 
+}
+
+p{
+    text-align: justify;
+    text-indent: 0.2in;
+    font-size: 15px;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    padding-right: 0.1in;
+    padding-left: 0.1in;
+}
+
+h4{
+    font-family: 'Trocchi', serif;
+    font-size: 22px;
+    font-weight: normal;
+    line-height: 22px;
+    padding-left: 0.5in;
+    color: #7c795d;
+}
